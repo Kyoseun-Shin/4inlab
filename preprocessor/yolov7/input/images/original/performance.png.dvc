@@ -1,0 +1,5 @@
+outs:
+- md5: e78b3df8cc9b4fcc809e623d30ac3274
+  size: 168474
+  hash: md5
+  path: performance.png
