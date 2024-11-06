@@ -1,0 +1,5 @@
+outs:
+- md5: 071c47fc860fda684fc99db21d676dc7
+  size: 8520
+  hash: md5
+  path: tennis_caption_224x224.jpg
