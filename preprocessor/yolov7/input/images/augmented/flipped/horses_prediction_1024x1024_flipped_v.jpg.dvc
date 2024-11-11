@@ -1,0 +1,5 @@
+outs:
+- md5: 8b9eb3081cd61beea88f81846532baa0
+  size: 127208
+  hash: md5
+  path: horses_prediction_1024x1024_flipped_v.jpg
