@@ -1,0 +1,5 @@
+outs:
+- md5: 94fa0f5be47555549015da039c38b81d
+  size: 9314
+  hash: md5
+  path: mask_cropped_224x224.jpg
