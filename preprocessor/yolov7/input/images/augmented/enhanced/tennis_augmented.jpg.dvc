@@ -1,0 +1,5 @@
+outs:
+- md5: 7002cb9b6333f2e4fff84b140ebad7d3
+  size: 4248
+  hash: md5
+  path: tennis_augmented.jpg

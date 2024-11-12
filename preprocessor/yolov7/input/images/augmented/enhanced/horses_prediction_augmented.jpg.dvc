@@ -1,0 +1,5 @@
+outs:
+- md5: 5f0a469bfe64bd0826b5c8dbfe8966b8
+  size: 70876
+  hash: md5
+  path: horses_prediction_augmented.jpg
