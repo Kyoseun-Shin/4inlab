@@ -1,0 +1,5 @@
+outs:
+- md5: b7bea8e4611446180ec4ca9c54bd9e72
+  size: 22929
+  hash: md5
+  path: yolov7_road_512x512.jpg

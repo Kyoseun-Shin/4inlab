@@ -1,0 +1,5 @@
+outs:
+- md5: 07e6143ecbaf5b24a2f30bc37b25913c
+  size: 8529
+  hash: md5
+  path: tennis_caption_224x224_flipped_v.jpg

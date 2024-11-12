@@ -1,0 +1,5 @@
+outs:
+- md5: 6b435b69ede8a7e7876d9e4eaf5b17a0
+  size: 10863
+  hash: md5
+  path: mask_224x224.jpg

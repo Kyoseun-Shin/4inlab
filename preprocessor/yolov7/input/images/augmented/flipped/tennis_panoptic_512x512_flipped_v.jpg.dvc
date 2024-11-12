@@ -1,0 +1,5 @@
+outs:
+- md5: ae548ab1d26b54e98f5077fc8c02e587
+  size: 12587
+  hash: md5
+  path: tennis_panoptic_512x512_flipped_v.jpg

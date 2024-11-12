@@ -1,0 +1,5 @@
+outs:
+- md5: a38225ac31d8d5f16721e4a7ea303881
+  size: 13460
+  hash: md5
+  path: performance_224x224_flipped.jpg
