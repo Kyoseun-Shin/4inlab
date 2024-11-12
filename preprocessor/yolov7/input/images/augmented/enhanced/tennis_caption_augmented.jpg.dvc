@@ -1,0 +1,5 @@
+outs:
+- md5: 0aaa23099e3ed74f505f1e9b76ea71bd
+  size: 11811
+  hash: md5
+  path: tennis_caption_augmented.jpg
