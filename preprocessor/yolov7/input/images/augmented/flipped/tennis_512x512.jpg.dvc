@@ -1,0 +1,5 @@
+outs:
+- md5: 62b8a7e448387bd341a22f2234e7200c
+  size: 22619
+  hash: md5
+  path: tennis_512x512.jpg

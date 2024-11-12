@@ -1,0 +1,5 @@
+outs:
+- md5: aa9260bdeca18a927fb5b4071fc32d44
+  size: 29861
+  hash: md5
+  path: yolov7_city_512x512_flipped.jpg

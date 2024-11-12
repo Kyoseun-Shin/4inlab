@@ -1,0 +1,5 @@
+outs:
+- md5: 6616776836521bf2e423e14dbaac9402
+  size: 99408
+  hash: md5
+  path: yolov7_3d_1024x1024_flipped.jpg
