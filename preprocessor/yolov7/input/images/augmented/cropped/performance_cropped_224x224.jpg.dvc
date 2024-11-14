@@ -1,5 +1,5 @@
 outs:
-- md5: ae5d18568f11ee09814287106863a4cc
-  size: 9353
+- md5: 6252f049eaa9f8f6fe1ce98aa9186e79
+  size: 10536
   hash: md5
   path: performance_cropped_224x224.jpg
