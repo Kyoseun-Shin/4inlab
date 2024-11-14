@@ -1,0 +1,5 @@
+outs:
+- md5: e301c216e19766b4397e79d5b9e7be49
+  size: 119752
+  hash: md5
+  path: yolov7_3d_augmented.jpg
