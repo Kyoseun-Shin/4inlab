@@ -1,0 +1,5 @@
+outs:
+- md5: c924510ec8e13e08e1c2cb75270bf439
+  size: 4772
+  hash: md5
+  path: yolov7_3d_cropped_224x224.jpg

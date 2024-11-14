@@ -1,0 +1,5 @@
+outs:
+- md5: e5532eaf020a2a586a5668941735708a
+  size: 8317
+  hash: md5
+  path: horses_prediction_cropped_224x224.jpg
