@@ -1,0 +1,5 @@
+outs:
+- md5: 9e63c09aa11ec92026ee1484fce06c68
+  size: 10854
+  hash: md5
+  path: mask_224x224_flipped_v.jpg
