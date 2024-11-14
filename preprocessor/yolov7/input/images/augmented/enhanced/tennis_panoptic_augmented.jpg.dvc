@@ -1,0 +1,5 @@
+outs:
+- md5: 2a82e9e1b0b53b7dea6f68dec629e7ee
+  size: 3250
+  hash: md5
+  path: tennis_panoptic_augmented.jpg
