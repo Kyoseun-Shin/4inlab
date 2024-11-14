@@ -1,0 +1,5 @@
+outs:
+- md5: fe6be24994086ce7c4c94874f37daff1
+  size: 7331
+  hash: md5
+  path: pose_224x224_flipped_v.jpg

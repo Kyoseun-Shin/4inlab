@@ -1,0 +1,5 @@
+outs:
+- md5: c0b1629b74d81b52257eea2d8c4db75e
+  size: 38370
+  hash: md5
+  path: tennis_semantic_1024x1024_flipped_v.jpg
