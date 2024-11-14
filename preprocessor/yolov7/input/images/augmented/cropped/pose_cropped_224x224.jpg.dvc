@@ -1,0 +1,5 @@
+outs:
+- md5: 710d082a66afffcf018e9028eca3e936
+  size: 7856
+  hash: md5
+  path: pose_cropped_224x224.jpg
