@@ -1,5 +1,5 @@
 outs:
-- md5: 3e69986a1b6a64a0cb98575afb16f4d6
-  size: 7419
+- md5: 5e0938087ce8db4926122b1b9e2b7b11
+  size: 7079
   hash: md5
   path: yolov7_road_augmented.jpg

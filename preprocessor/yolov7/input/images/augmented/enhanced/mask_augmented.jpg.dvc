@@ -1,5 +1,5 @@
 outs:
-- md5: af88a3ac5b9b7edf147695f11880624a
-  size: 50260
+- md5: 0cca8c69156cee57da8da22916eac953
+  size: 34804
   hash: md5
   path: mask_augmented.jpg
