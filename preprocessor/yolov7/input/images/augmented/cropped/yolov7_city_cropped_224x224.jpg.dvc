@@ -1,5 +1,5 @@
 outs:
-- md5: 706225267cfefd22b72a133ef0bf1d44
-  size: 5106
+- md5: cec3f7807405e7b9d59f04bdf8fcebd9
+  size: 6852
   hash: md5
   path: yolov7_city_cropped_224x224.jpg
