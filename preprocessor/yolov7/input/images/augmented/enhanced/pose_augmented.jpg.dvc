@@ -1,5 +1,5 @@
 outs:
-- md5: 3aed8baecc1964bf853e4da789f82484
-  size: 21345
+- md5: 8ce75d091097e7039dcb056fd1917d7c
+  size: 27849
   hash: md5
   path: pose_augmented.jpg
