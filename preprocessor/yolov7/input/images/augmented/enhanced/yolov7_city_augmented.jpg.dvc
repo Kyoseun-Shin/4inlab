@@ -1,5 +1,0 @@
-outs:
-- md5: a4720e96c33f87f34aebcfb9b3bdeb81
-  size: 160004
-  hash: md5
-  path: yolov7_city_augmented.jpg
