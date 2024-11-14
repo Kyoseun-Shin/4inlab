@@ -1,5 +1,5 @@
 outs:
-- md5: d91079ae91b2d6ff20356e5a5420f763
-  size: 6541
+- md5: bb5cfb207f5c04e56127c6db931155ca
+  size: 19061
   hash: md5
   path: yolov7_lidar_cropped_224x224.jpg
