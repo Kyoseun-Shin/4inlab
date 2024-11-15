@@ -1,0 +1,5 @@
+outs:
+- md5: 22f790ae14c5e3ca32a52e1656ad8d91
+  size: 82866
+  hash: md5
+  path: performance_augmented.jpg
