@@ -1,0 +1,5 @@
+outs:
+- md5: 697e66b16bef557daaa7a6d5702c3d31
+  size: 68770
+  hash: md5
+  path: performance_filtered.jpg

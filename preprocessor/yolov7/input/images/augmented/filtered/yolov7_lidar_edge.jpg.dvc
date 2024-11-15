@@ -1,0 +1,5 @@
+outs:
+- md5: 03ad8bf215b977a189742f965fa7cd39
+  size: 77166
+  hash: md5
+  path: yolov7_lidar_edge.jpg
