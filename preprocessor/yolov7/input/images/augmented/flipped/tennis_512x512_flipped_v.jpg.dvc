@@ -1,0 +1,5 @@
+outs:
+- md5: 050529937d20f1f4cb0c08834e9a5043
+  size: 22633
+  hash: md5
+  path: tennis_512x512_flipped_v.jpg
