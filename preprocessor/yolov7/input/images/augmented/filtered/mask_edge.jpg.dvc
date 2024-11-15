@@ -1,0 +1,5 @@
+outs:
+- md5: 0c5289fb439a819cd718851205943212
+  size: 80463
+  hash: md5
+  path: mask_edge.jpg

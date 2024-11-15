@@ -1,0 +1,5 @@
+outs:
+- md5: f990414c9270477149c70e75606e2e38
+  size: 93000
+  hash: md5
+  path: yolov7_3d_filtered.jpg
