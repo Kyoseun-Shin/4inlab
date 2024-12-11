@@ -1,5 +1,0 @@
-outs:
-- md5: 4e4ca8ad51f69a1effb872055b8ab0f2
-  size: 57981
-  hash: md5
-  path: yolov7_road_1024x1024_flipped.jpg

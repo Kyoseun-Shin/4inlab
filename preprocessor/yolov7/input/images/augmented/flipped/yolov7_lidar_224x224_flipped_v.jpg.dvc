@@ -1,5 +1,0 @@
-outs:
-- md5: 6f3cc810d66da617d0269f044c7a2935
-  size: 7024
-  hash: md5
-  path: yolov7_lidar_224x224_flipped_v.jpg
