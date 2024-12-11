@@ -1,0 +1,5 @@
+outs:
+- md5: e1802339de233065103a67044ab26afa
+  size: 4990
+  hash: md5
+  path: tennis_semantic_224x224.jpg

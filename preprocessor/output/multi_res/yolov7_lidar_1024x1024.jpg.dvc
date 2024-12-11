@@ -1,0 +1,5 @@
+outs:
+- md5: 180716d16444907e6f15f54e3a6e0ca2
+  size: 92089
+  hash: md5
+  path: yolov7_lidar_1024x1024.jpg
