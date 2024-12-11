@@ -1,7 +1,7 @@
 [core]
     no_scm = True
-    remote = origin
-['remote "origin"']
+    remote = source
+['remote "source"']
     url = s3://4inlab-s3-bucket/data/input/images/
     region = ap-northeast-2
     use_ssl = true
