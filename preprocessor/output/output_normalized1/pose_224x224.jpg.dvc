@@ -1,0 +1,5 @@
+outs:
+- md5: 590fa582f08ac97e3341a5f03fd5fb74
+  size: 15439
+  hash: md5
+  path: pose_224x224.jpg

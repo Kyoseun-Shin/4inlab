@@ -1,0 +1,5 @@
+outs:
+- md5: 3d0a32dad77c7f62b856c1de829040a7
+  size: 257010
+  hash: md5
+  path: yolov7_city_1024x1024.jpg

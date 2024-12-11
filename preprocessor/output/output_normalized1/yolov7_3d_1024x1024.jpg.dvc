@@ -1,0 +1,5 @@
+outs:
+- md5: 98de2911691060fcdb59dc6ea6052425
+  size: 367517
+  hash: md5
+  path: yolov7_3d_1024x1024.jpg

@@ -1,0 +1,5 @@
+outs:
+- md5: 664c7fbe36daf191a16dc31da3851dbd
+  size: 92168
+  hash: md5
+  path: tennis_panoptic_1024x1024.jpg
